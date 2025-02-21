@@ -26,7 +26,7 @@ A Spring Boot REST API for managing football clubs, matches, and competitions.
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/football-match-api.git
+   git clone https://github.com/Aleksandar882/football-match-api.git
 2. **Navigate to the project folder**
     ```sh
    cd football-match-api
