@@ -15,7 +15,7 @@ A Spring Boot REST API for managing football clubs, matches, and competitions.
 - Spring Web (REST API)
 - Lombok
 
-## 🛠️ Some API Endpoints
+## ⚡ Some API Endpoints
 - GET /clubs - Fetch all clubs
 - POST /clubs - Add a new club
 - DELETE /clubs/{id} - Delete a club
